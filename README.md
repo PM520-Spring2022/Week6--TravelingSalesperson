@@ -1,3 +1,3 @@
 # Week5--TravelingSalesperson
 
-This repo contains the inoput data for the travelling salesperson problem.
+This repo contains the input data for the travelling salesperson problem.
